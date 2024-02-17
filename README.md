@@ -68,3 +68,5 @@ As a part of the end-year networking project, the task is to design and implemen
 ## Additional Notes
 
 - Test-PC connected to port fa0/1 in the IT department is used for remote login testing purposes.
+
+  ![scenraio](https://github.com/YuklidD/Cisco_pkt_project3/blob/main/HMS.jpg)
