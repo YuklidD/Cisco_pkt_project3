@@ -1,6 +1,6 @@
 # Modern Hotel Network Design
 
-## Project Description
+## Project Description 
 
 As a part of the end-year networking project, the task is to design and implement the network for Vic Modern Hotel. The hotel comprises three floors, each housing different departments. The network design should ensure efficient communication between departments, secure access, and reliable connectivity.
 
