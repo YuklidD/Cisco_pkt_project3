@@ -1,4 +1,4 @@
-# Vic Modern Hotel Network Design
+# Modern Hotel Network Design
 
 ## Project Description
 
